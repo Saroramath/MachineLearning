@@ -1,8 +1,57 @@
-- [Machine Learning](#Machine-Learning)
- *[Linear Regression](##Linear-Regression)
- *[Logistic Regression](##Linear-Regression)
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+
+
+# Heading levels
+
+> This is a fixture to test heading levels
+
+<!-- toc -->
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
  
-### Example 1 Heading
+
 # Machine Learning
 
 Pandas is used for the data reading and preparation. All needed commands are well documented in the initial examples that we are exploring.
@@ -12,18 +61,4 @@ See an example [here](./6205A/6205A1Q1Start_up.ipynb)
 
 ## Logistic Regression
 
-- [1. Introduction](#1-introduction)
-  * [1.1 Purpose](#11-purpose)
-  * [1.2 Scope](#12-scope)
-  * [1.3 Acronyms](#13-acronyms)
-  * [1.4 References](#14-references)
-    + [1.4.1 Internal References](#141-internal-references)
-    + [1.4.2 External References](#142-external-references)
-  * [1.5 Overview](#15-overview)
 
-# Introduction
-1.1 Purpose
-1.2 Description
-Development toolset
-2.1 IDEs
-2.2 Continuous Integration tools
