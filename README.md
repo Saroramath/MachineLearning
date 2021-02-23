@@ -1,5 +1,6 @@
 - [Machine Learning](#Machine-Learning)
 - [Linear Regression](##Linear-Regression)
+- [Logistic Regression](##Linear-Regression)
  
 ### Example 1 Heading
 # Machine Learning
