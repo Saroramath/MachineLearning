@@ -1,6 +1,6 @@
 # Machine Learning
 
-- [Classical Methodsa](#heading)
+- [Classical Methods](#heading)
   * [Data processing](#sub-heading)
     + [Pandas](#sub-sub-heading)
     + [Numpy](#Numpy-Array)
