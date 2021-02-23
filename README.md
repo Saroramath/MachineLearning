@@ -1,7 +1,8 @@
-* TOC
-{:toc}
-
-# MachineLearning
+- [Machine Learning](#Machine-Learning)
+- [Linear Regression](##Linear-Regression)
+ 
+### Example 1 Heading
+# Machine Learning
 
 Pandas is used for the data reading and preparation. All needed commands are well documented in the initial examples that we are exploring.
 
