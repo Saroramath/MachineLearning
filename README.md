@@ -1,8 +1,9 @@
 # Machine Learning
 
-- [Useful Commands](#heading)
-  * [Sub heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+- [Classical Methodsa](#heading)
+  * [Data processing](#sub-heading)
+    + [Pandas](#sub-sub-heading)
+    + [Numpy](#Numpy-Array)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
@@ -28,6 +29,8 @@ This is an h2 heading
 #### Sub-sub-heading
 
 This is an h3 heading
+
+#### Numpy Array
 
 ## Heading
 
